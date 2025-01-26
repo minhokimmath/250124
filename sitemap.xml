@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+    <url>
+        <loc>https://minhokimmath.github.io/250124/</loc>
+        <lastmod>2025-01-26</lastmod>
+        <priority>1.00</priority>
+    </url>
+    <!-- 추가 페이지가 있을 경우 아래와 같이 계속 추가 -->
+    <url>
+        <loc>https://minhokimmath.github.io/250124/another-page/</loc>
+        <lastmod>2025-01-25</lastmod>
+        <priority>0.80</priority>
+    </url>
+</urlset>
