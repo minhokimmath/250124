@@ -1,0 +1,4 @@
+User-agent: *
+Disallow: /private/      # /private/ 폴더는 크롤링하지 말 것
+Allow: /                 # 나머지 모든 경로는 크롤링 허용
+Sitemap: https://minhokimmath.github.io/250124/sitemap.xml  # 사이트맵 경로 명시
